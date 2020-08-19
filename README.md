@@ -12,3 +12,6 @@ pip install numpy
 ## Usage
 
 After running the program, you will be prompted to enter the total number of enemies, followed by the 'ring' and 'slice' of each enemy. Rings are indexed from outermost ring to innermost, starting from 0 and ending at 3. Slices are indexed from Pi radians to -Pi radians, clockwise. Indexing starts from 0 and ends at 11. If this is confusing, feel free to read my [blog](https://www.medium.com/@richard_chung) for more information and graphics.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
