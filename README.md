@@ -14,7 +14,7 @@ pip install numpy
 After running the program, you will be prompted to enter the total number of enemies, followed by the 'ring' and 'slice' of each enemy, and finally the number of ring moves. Rings are indexed from outermost ring to innermost, starting from 0 and ending at 3. Slices are indexed from Pi radians to -Pi radians, clockwise. Indexing starts from 0 and ends at 11. Typing in a 0 for the number of enemies will pull up a preloaded puzzle board to solve as a demo. 
 
 
-If this is confusing, feel free to read my [blog](https://www.medium.com/@richard_chung) for more information and graphics.
+More detailed information can be found on my [blog](https://www.richardchung.medium.com).
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
